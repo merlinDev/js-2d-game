@@ -1,0 +1,8 @@
+1. spawn player in middle and randomly spawn 10 ememies across the screen.
+2. player can move up, down, left and right.
+3. player has 100/100 health. each enemy has 50/100 health;
+4. when player contacted with enemey, player's helath get reduced 10% per second.
+5. when hitting attack button, enemy health get reduced 20% per each attack.
+6. randomely spawn 10 health potion across the screen (map).
+7. each health potion contains 20% healing power;
+8. player's health should be always shown on top of the screen;
